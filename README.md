@@ -34,7 +34,7 @@ https://www.oracle.com/cloud/free/ free forever, watch video for tutorial https:
 
 ## Installation
 <a href="https://is.gd/ibexiu" target="_blank"><img src="https://thkr999999999999999999.on.drv.tw/thkr/XRecorder_10112023_194449.jpg" width="500" height="250" border="10" /></a>
-<a href="https://is.gd/ibexiu" target="_blank"><img src="https://thkr999999999999999999.on.drv.tw/thkr/XRecorder_09112023_132343~2.jpg[" width="500" height="250" border="10" /></a>
+<a href="https://is.gd/ibexiu" target="_blank"><img src="https://thkr999999999999999999.on.drv.tw/thkr/XRecorder_09112023_132343~2.jpg" width="500" height="250" border="10" /></a>
 
 ```
 1. Install Source code.
